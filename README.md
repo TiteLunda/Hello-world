@@ -25,7 +25,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [⭐️ Show your support](#support)
@@ -51,7 +50,7 @@ This project is about Microverse Linters configuration and ensuring that all lin
 <details>
   <summary>Version Control</summary>
   <ul>
-    <li><a href="https://github.com/">React.js</a></li>
+    <li><a href="https://github.com/">Github</a></li>
   </ul>
 </details>
 
@@ -73,10 +72,9 @@ This project is about Microverse Linters configuration and ensuring that all lin
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Linters_Setup]**
-- **[Follow HTMLandCSS_best_practice]**
+- **[Follow_HTMLandCSS_best_practice]**
 - **[Display_Text]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,8 +82,6 @@ This project is about Microverse Linters configuration and ensuring that all lin
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://github.com/TiteLunda/Hello-world)
 
